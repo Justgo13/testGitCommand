@@ -4,6 +4,6 @@ public class newClass {
     }
 
     public int newMethod() {
-        return 0;
+        return 1;
     }
 }
