@@ -15,4 +15,8 @@ public class testClass {
     public int getNum()  {
         return num;
     }
+
+    public int getAge() {
+        return age;
+    }
 }
