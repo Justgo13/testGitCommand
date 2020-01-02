@@ -7,4 +7,8 @@ public class testClass {
         this.name = name;
         this.num = num;
     }
+
+    public String testMethod() {
+        return name;
+    }
 }
