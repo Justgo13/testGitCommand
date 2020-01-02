@@ -11,4 +11,8 @@ public class testClass {
     public String testMethod() {
         return name;
     }
+
+    public int getNum()  {
+        return num;
+    }
 }
